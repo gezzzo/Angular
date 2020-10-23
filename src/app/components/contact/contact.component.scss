@@ -1,3 +1,37 @@
-p{
-    color:red;
+.banner
+{
+        background-image: url(imgs/banner.jpg);
+        background-size: cover;
+        background-position: center;
+        color:white;
+        font-size: 20px;
+        margin-top: 10px;
+}
+.banner2
+{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    margin-top: 70px;
+}
+.word1
+{
+    border-radius: 250px;
+    border: 2 white black;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    font-size: 20px;
+}  
+.word2
+{
+    position: absolute;
+    left: 14%;
+    top: 35%;
+    font-size: 40px;
+    font-family: monospace;
+}  
+.contact-section
+{
+    margin-top: 40px
 }
